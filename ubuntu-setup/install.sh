@@ -8,6 +8,7 @@ sudo apt-get install dconf-cli
 
 # Running setup`s
 sh zsh.sh
+sh git-aliases.sh
 sh nvm.sh 
 sh fira-code.sh
 sh vscode.sh 
